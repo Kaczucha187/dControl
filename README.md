@@ -2,4 +2,4 @@
 
 Functions:
 
-**[1]. dContol turns windows defender on and off**
+**[1] dContol turns windows defender on and off**
